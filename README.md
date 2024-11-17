@@ -83,6 +83,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Mahmoud Faour - [https://www.linkedin.com/in/amwfa/](https://www.linkedin.com/in/amwfa/) - leedor97@gmail.com
 
-Project Link: [https://github.com/yourusername/flutter-todo-app](https://github.com/yourusername/flutter-todo-app)
+Project Link: [https://github.com/mahmoudfa97/todo_app_flutter](https://github.com/mahmoudfa97/todo_app_flutter)
